@@ -1,0 +1,11 @@
+#15/05/2017
+wordlist = [fragment, life, penguin, empathic, bloody, perverted, eternity, alibi, fragile, cursed]
+guessing = True
+max_guess_no. = 10
+win = False
+lost = False
+while win = False and lost = False:
+  def games_module():
+    games = input('how many games do you want to play?')
+    games = int
+    sdf
